@@ -1,1 +1,1 @@
-My first readme
+ALX SE Program is fun!
